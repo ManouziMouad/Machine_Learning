@@ -2,7 +2,8 @@
 ## Exploration , Étude Statistique 📊 et Prédictive 📈 des Vidéos Youtube      Tendances dans 5 Pays : 
 ## Maroc 🇲🇦, Usa 🇺🇸, Espagne 🇪🇸, France 🇫🇷, Italie 🇮🇹
  
-  > _Nous sommes Mouad -Outmani Manouzi et Chaimae Elaoumari, deux étudiants en Data Engineer._
+  > _Nous sommes Mouad -Outmani Manouzi et Chaimae Elaoumari, deux étudiants en Data Engineer à l'Institut National 
+  des Postes et Télécommunications à Rabat, Maroc._
 
   Notre projet consiste à étudier des vidéos Youtube tendances. Notre travail est focalisé sur l’exploration des données
   et l’étude statistique et prédictive de ces données. Nous avons tout d’abord commencé par une collection de données dans
